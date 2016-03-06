@@ -1,0 +1,24 @@
+body{
+
+	  background-image: url("http://www.mesym.com/wp-content/uploads/mesym/2014/09/tripda-icon-1.png");
+      background-size: 80%;
+      background-repeat: no-repeat;
+}
+h1 {
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+}
+
+h3{
+
+	color:blue;
+	text-align: center;
+}
+audio{
+  display: none;
+}

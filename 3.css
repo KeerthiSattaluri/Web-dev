@@ -1,0 +1,32 @@
+#sticky {
+  position: sticky;
+  background: yellow;
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;  
+  top: 70px;
+  left: 10px;
+}
+
+#wrapper {
+  border: 1px solid blue;
+  width: 75%;
+  margin: auto;
+  height: 400px;
+  background: url("http://www.hdwallpapers.net/previews/colorful-stripes-292.jpg");
+}
+
+#extra{
+  background: green;
+  width: 75%;
+  margin: auto;
+  height: 100px;
+}
+
+body {
+  height: 1000px;
+}
+
+p {
+    padding: 2cm 4cm 3cm 4cm;
+}
